@@ -28,4 +28,8 @@ Feel free to open issues or submit pull requests. Any help or feedback is welcom
 
 ## Credits
 
-This project uses dragon and viking descriptions sourced from [RomainChamb](https://github.com/RomainChamb/httydApi).  
+This project uses some dragons, vikings and locations descriptions sourced from 
+
+[RomainChamb](https://github.com/RomainChamb/httydApi) 
+and 
+[howtotrainyourdragon.fandom.com](https://howtotrainyourdragon.fandom.com/wiki/Category:Dragon_Species_from_the_Franchise)
